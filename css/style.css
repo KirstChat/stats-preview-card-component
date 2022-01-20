@@ -8,6 +8,8 @@
 
   /* Neutral */
   --white: #fff;
+
+  --overlay: hsla(277, 70%, 30%, 0.6);
 }
 
 * {
@@ -41,7 +43,7 @@ body {
 
 /* Card Top */
 .card--img {
-  background: linear-gradient(rgba(170, 92, 219, 0.6), rgba(170, 92, 219, 0.6)),
+  background: linear-gradient(var(--overlay), var(--overlay)),
     url('../images/image-header-mobile.jpg') no-repeat;
   background-size: contain;
   border-radius: 0.5rem 0.5rem 0 0;
@@ -117,10 +119,7 @@ body {
   }
 
   .card--img {
-    background: linear-gradient(
-        hsla(277, 64%, 40%, 0.6),
-        hsla(277, 64%, 40%, 0.6)
-      ),
+    background: linear-gradient(var(--overlay), var(--overlay)),
       url('../images/image-header-desktop.jpg') no-repeat;
     background-size: cover;
     border-radius: 0 0.5rem 0.5rem 0;
@@ -139,6 +138,7 @@ body {
 
   .card__text .description {
     margin-top: 1.5rem;
+    width: 374px;
   }
 
   .card__stats {
