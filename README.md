@@ -28,8 +28,6 @@ Users should be able to:
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-stats-preview-card-component-aZ-iIRdy9](https://www.frontendmentor.io/solutions/solution-for-stats-preview-card-component-aZ-iIRdy9)
 - Live Site URL: [https://kirstchat.github.io/stats-preview-card-component/](https://kirstchat.github.io/stats-preview-card-component/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
