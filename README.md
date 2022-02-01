@@ -4,16 +4,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Built with](#built-with)
+- [Author](#author)
 
-## Overview
-
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -28,16 +25,14 @@ Users should be able to:
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-stats-preview-card-component-aZ-iIRdy9](https://www.frontendmentor.io/solutions/solution-for-stats-preview-card-component-aZ-iIRdy9)
 - Live Site URL: [https://kirstchat.github.io/stats-preview-card-component/](https://kirstchat.github.io/stats-preview-card-component/)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
-### Author
+## Author
 
-- LinkedIn - [Kirsty Chatterton](https://www.linkedin.com/in/kirsty-c-154781a4/)
-- Github - [KirstChat](https://github.com/KirstChat)
 - Frontend Mentor - [@KirstChat](https://www.frontendmentor.io/profile/KirstChat)
+- LinkedIn - [Kirsty Chatterton](https://www.linkedin.com/in/kirsty-c-154781a4/)
